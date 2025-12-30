@@ -152,7 +152,7 @@ const StudentsPage = () => {
                 value={form.password}
                 onChange={handleChange}
                 className="mt-1 w-full rounded-lg border border-slate-200 px-3 py-2 text-sm focus:border-primary focus:outline-none"
-                placeholder="Temporary password"
+                placeholder="Enter password"
               />
             </div>
           </div>
